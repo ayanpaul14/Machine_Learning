@@ -41,7 +41,11 @@ Machine_Learning/
 │   ├── 02_NumPy_Array_Operations.ipynb  # Arithmetic, floor div, iteration
 │   └── ...
 │
-├── 📁 Pandas/                           # Coming Soon
+├── 📁 Pandas/
+│   ├── 01_Pandas_Basics.ipynb              # Series, DataFrames, indexing basics
+│   ├── 02_Pandas_Feature_Extraction.ipynb  # Feature extraction techniques
+│   └── ...
+│
 ├── 📁 Matplotlib/                       # Coming Soon
 ├── 📁 Scikit-Learn/                     # Coming Soon
 ├── 📁 Deep_Learning/                    # Coming Soon
@@ -55,7 +59,7 @@ Machine_Learning/
 | Topic | Notebooks | Status |
 |:---|:---:|:---:|
 | **NumPy** | Arrays, Operations, Indexing, Broadcasting | 🟡 In Progress |
-| **Pandas** | DataFrames, Cleaning, EDA | ⬜ Coming Soon |
+| **Pandas** | Series, DataFrames, Feature Extraction | 🟡 In Progress |
 | **Matplotlib & Seaborn** | Plotting, Visualization | ⬜ Coming Soon |
 | **Scikit-Learn** | Regression, Classification, Clustering | ⬜ Coming Soon |
 | **Deep Learning** | ANN, CNN, NLP basics | ⬜ Coming Soon |
@@ -70,6 +74,12 @@ Machine_Learning/
 |:---:|:---|:---|
 | 01 | `01_NumPy_Arrays.ipynb` | `np.array()`, 1D & 2D arrays, `np.arange()`, `np.zeros()` |
 | 02 | `02_NumPy_Array_Operations.ipynb` | Addition, subtraction, multiplication, division, floor division, iteration |
+
+### 🐼 Pandas
+| # | Notebook | Topics Covered |
+|:---:|:---|:---|
+| 01 | `01_Pandas_Basics.ipynb` | `pd.Series()`, DataFrame creation, indexing, labels vs default index |
+| 02 | `02_Pandas_Feature_Extraction.ipynb` | Feature extraction and transformation techniques on tabular data |
 
 ---
 
